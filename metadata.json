@@ -1,0 +1,5 @@
+{
+  "name": "Nanno Banana PPDB Generator",
+  "description": "A specialized prompt generator and visualizer for School Admission (PPDB) posters using the Gemini Nano Banana model.",
+  "requestFramePermissions": []
+}
